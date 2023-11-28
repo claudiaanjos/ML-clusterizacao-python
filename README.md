@@ -1,2 +1,1 @@
-# ML-clusterizacao-python
-Curso de Machine Learning: Clusterização com Linguagem Python
+# Machine Learning: Clusterização com Linguagem Python
