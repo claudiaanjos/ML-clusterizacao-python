@@ -36,10 +36,10 @@ No curso aprendemos Machine Learning em projetos de Clusterização, dos primeir
 * Alocação de Pesos
 * Treinamento
 * Alocação dos Clusters
-* Jupyter Notebook - Definição
-* Jupyter Notebook - Instalação
-* Jupyter Notebook - Visão Geral
-* Jupyter Notebook - Executando códigos
+* Jupyter Notebook: Definição
+* Jupyter Notebook: Instalação
+* Jupyter Notebook: Visão Geral
+* Jupyter Notebook: Executando códigos
 
 **Módulo 4: Projeto**
 
@@ -51,7 +51,6 @@ No curso aprendemos Machine Learning em projetos de Clusterização, dos primeir
 * Aula prática: Alocação de Pesos 
 * Aula prática: Treinamento 
 * Aula prática: Alocação dos Clusters 
-
 
 #
 
